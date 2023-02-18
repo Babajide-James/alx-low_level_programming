@@ -1,7 +1,7 @@
 #include <stdio.h>
-/** This is the entry point for this code
+/** this is the entry point for this code
  *
- * Return: Always 0
+ * return: always 0
  */
 
 int main(void)
@@ -16,5 +16,5 @@ int main(void)
 			c++;
 		}
 	putchar('\n');
-	return(0);
+	return (0);
 }
