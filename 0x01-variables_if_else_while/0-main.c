@@ -1,1 +1,12 @@
-This is the main file for my C language
+#include <stdio.h>
+
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
+int main(void)
+{
+	printf("Holberton SchoolGCC");
+	return (0);
+}
