@@ -1,5 +1,6 @@
 #include <stdio.h>
-/** this is the entry point for this code
+/**
+ * This is the entry point for this code
  *
  * return: always 0
  */
