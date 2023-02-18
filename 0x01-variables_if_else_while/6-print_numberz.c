@@ -1,5 +1,5 @@
 #include <stdio.h>
-/** 
+/**
  * here is the header file
  *
  * Return: Always 0
