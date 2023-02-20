@@ -6,8 +6,16 @@
  * main - Entry point
  *
  * Return = Result 0
+ *
+ * This is learning software dev.
+ *
+ * It is getting hot this days
+ *
+ * I thank GOD for creativity
+ *
+ * You need to be more intentonal!
+ * return 0
  */
-
 int main(void)
 {
 int c;
