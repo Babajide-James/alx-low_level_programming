@@ -4,7 +4,6 @@
  *
  * Return: result (0)
  */
-
 int main(void)
 {	
 	char v;
