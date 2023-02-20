@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * It prints all numbers of base 16 in lowercase
+ * main - Entry point
  *
  * Return: Absolute 0
  */

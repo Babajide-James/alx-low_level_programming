@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * here is the header file
+ * Main - Entry point
  *
  * Return: Always 0
  */
