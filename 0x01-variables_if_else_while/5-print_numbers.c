@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * This is to be used to print all digits
+ * main - Entry point
  *
  * Return: Always 0
  */
