@@ -5,7 +5,7 @@
  * Return: result (0)
  */
 int main(void)
-{	
+{
 	char v;
 	int w;
 	long int x;
