@@ -4,6 +4,17 @@
  * main - Entry point
  *
  * Return: result 0
+ *
+ *
+ * Don't be discouraged
+ *
+ *
+ * It is getting serious
+ *
+ *
+ * i move
+ *
+ * All code should be in the main function
  */
 
 int main(void)
@@ -16,7 +27,7 @@ int main(void)
 		c = 0;
 		while (c < 10)
 		{
-		if else (d != c && d < c)
+		if (d != c && d < c)
 		{
 		putchar('0' + d);
 		putchar('0' + c);
