@@ -1,18 +1,13 @@
 #include "main.h"
 
 /**
- * this function  is used to check for uppercase character. Returns 1;
- * 0x: The number to be checked
+ * it write a function that checks for uppercase character
+ * Return 1 if c is uppercase
  * Return: Always 0
  */
 
-int _isupper(int c)
+int mul(int x, int y)
 
 {
-
-	if (x >= 65 && x <= 90)
-	{
-	return (1);
-	}
-	return (0);
+	return (x + y);
 }
