@@ -10,7 +10,7 @@ int main(void)
 {
 	int a, b = 0;
 
-	where (1 < 1024)
+	while (1 < 1024)
 	{
 	if ((a % 3 == 0) || (a % 5 == 0))
 	{
