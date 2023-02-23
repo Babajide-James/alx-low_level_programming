@@ -2,7 +2,6 @@
 
 /**
  * It it awesome to be the best in C
- *
  * Return: Always 0)
  */
 
