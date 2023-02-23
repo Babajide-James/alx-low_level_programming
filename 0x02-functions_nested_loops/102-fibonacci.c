@@ -8,16 +8,23 @@
 
 int main(void)
 {
-	int i, z = 0;
+	int i = 0;
+	long j = 1, k = 2;
 
-	while (1 < 1024)
+	while (1 < 50)
 	{
-	if ((i % 3 == 0) || (i % 5 == 0))
+	if (i == 0)
+	printf("%ld", j)
+	else if (i = 1)
+	printf("%ld", k);
+	else
 	{
-	z += i;
+	k += j;
+	j = k - j;
+	printf(", %ld", k);
 	}
 	i++;
 	}
-	printf("%d\n", z);
+	printf("%d\n");
 	return (0);
 }	
