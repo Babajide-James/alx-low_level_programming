@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * This directory checks if parameter is an uppercase character.
- * Input character.
+ * _isupper - checks for uppercase character
+ * @c: integer value to be evaluated
  * Return: 1 if is an uppercase char.
  */
 
