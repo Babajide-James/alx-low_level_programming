@@ -4,7 +4,7 @@
 /**
  * rot13 - it encodes a string using rot13
  * @s: This is the char used
- * Return: Always s (Success)
+ * Return: Always *s (Success)
  */
 char *rot13(char *s)
 {
