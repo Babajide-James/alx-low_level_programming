@@ -20,6 +20,6 @@ char *create_array(unsigned int size, char c)
 
 	for (s = 0; s < size; s++)
 
-		fir[i] = s;
+		fir[s] = c;
 	return (fir);
 }
