@@ -7,7 +7,7 @@
  * @argv: the string
  * Return: Always 0 if success
  */
-int main(int argc, char __attribute__((unused)) *argv[])
+int main(int argc, char *argv[])
 {
 	int x, y, mul;
 
