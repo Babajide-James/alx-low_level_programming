@@ -2,20 +2,20 @@
 /**
  * main - Entry point
  *
- * return: always 0
+ * Return: always 0
  */
 
 int main(void)
 {
-	char c;
+	char i;
 
-	c = 'a';
-	while
-		(c <= 'z') {
-			if ((c != 'q' && c != 'e') && c <= 'z')
-				putchar(c);
+	i = 'a';
+	while (c <= 'z')
+	{
+		if (c != 'q' && c != 'e')
+			putchar(c);
 			c++;
-		}
+	}
 	putchar('\n');
 	return (0);
 }
