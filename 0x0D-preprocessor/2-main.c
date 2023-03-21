@@ -6,10 +6,8 @@
  * @argv: character givem
  * Return: Always 0 (success)
  */
-int main(int argc, char *argv[])
+int main(void)
 {
-	(void) argc;
-
-	printf("%s\n", argv[0]);
+	printf("%s\n", __FILE__);
 	return (0);
 }
